@@ -1,5 +1,7 @@
 # Objective and Key Result (OKR)
 
+<img src="README.png" alt="Objective and Key Result" style="width: 100%;"/>
+
 * [What is an OKR?](#what-is-an-okr)
 * [What is an objective?](#what-is-an-objective)
 * [What is a key result](#what-is-a-key-result)
