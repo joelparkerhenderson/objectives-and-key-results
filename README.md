@@ -1,36 +1,59 @@
-# Objective and Key Result (OKR)
+# Objectives and Key Results (OKR) tutorial
 
-<img src="README.png" alt="Objective and Key Result" style="width: 100%;"/>
+<img src="README.png" alt="Objective" style="width: 100%;"/>
 
-* [What is an OKR?](#what-is-an-okr)
+* [What is OKR?](#what-is-okr)
 * [What is an objective?](#what-is-an-objective)
 * [What is a key result](#what-is-a-key-result)
+* [OKR is not employee evaluation](#okr-is-not-employee-evaluation)
 * [For more information](#more)
 
 
-<h2><a name="what-is-an-okr">Introduction: What is an OKR?</a></h2>
+<h2><a name="what-is-okr">What is OKR?</a></h2>
 
-OKRs stands for Objectives and Key Results. It is a method of defining and tracking objectives and their outcomes.
+OKR stands for Objectives and Key Results.
 
-  * Its main goal is to connect company, team and personal objectives to measurable results, making people move together in the right direction.
+OKR is a method of defining objectives and tracking their outcomes:
 
-  * A big part of OKR is making sure each individual knows what's expected of them at work.
+  * The Objective: what we want to achieve
+  * The Key Results: how do we know we are getting there
 
-  * OKRs are kept public in front of everyone so that teams move in one direction and know what others are focusing on.
+To create an OKR, use this one sentence:
 
-  * OKRs were invented at Intel, and are used today by many companies, including Intel, Google, Microsoft, Twitter, and Uber.
+  * I will (Objective) as measured by (this set of Key Results).
+
+Purpose:
+
+  * OKR connects objectives of organizations, teams, and individuals.
+
+  * OKR connects objectives to measurable results, making people move together in the right direction.
+
+  * OKR makes sure everyone understands what's expected of them at work.
+
+History:
+
+  * OKR was invented at Intel and championed by Andy Grove, CEO.
+
+* OKR is in use by many companies, including Intel, Google, Microsoft, Twitter, and Uber.
+
+Ground rules:
+
+  * OKR items are visible to the whole organization, by default.
+
+  * OKR visbility helps teams work together, and helps everyone know what others are doing.
+
 
 Related:
 * [Wikipedia OKR](https://en.wikipedia.org/wiki/OKR)
 * [The Art of the OKR](http://eleganthack.com/the-art-of-the-okr/)
+* [How to make OKRs actually work at your startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
 * [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
 * [Key Performance Indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
-* [How to make OKRs actually work at your startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
 
 
 <h2><a name="objective">What is an objective?</a></h2>
 
-Your objective is a single sentence that is:
+Your objective should be:
 
 * Qualitative
 
@@ -120,7 +143,19 @@ For example, “Launch an Awesome MVP” might have KR’s of:
   * 10% conversion
 
 
+<h2><a name="okr-is-not-employee-evaluation">OKR is not employee evaluation</a></h2>
+
+OKR is not synonymous with an employee evaluation:
+
+  * OKRs are about the company’s goals, team's goals, and person's goals, and how each person contributes to the goals.
+
+  * Performance evaluations should be independent from OKRs.
+
+
 <h2><a name="more">For more information</a></h2>
 
 * Credit: [Cove OKR examples](https://www.talentcove.com/okrs/okr-examples.html)
 * Credit: [First Round Review: How to make OKRs actually work at your startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
+* [The Fundamentals: Objectives & Key Results](https://medium.com/startup-tools/okrs-5afdc298bc28)
+* [Quora: How do I write an OKR?](https://www.quora.com/How-do-I-write-an-OKR)
+* [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.tfxnwa110]
