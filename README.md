@@ -5,7 +5,7 @@
 * [What is OKR?](#what-is-okr)
 * [What is an objective?](#what-is-an-objective)
 * [What is a key result](#what-is-a-key-result)
-* [OKR is not employee evaluation](#okr-is-not-employee-evaluation)
+* [OKR quotes](#okr-quotes-by-andy-grove-intel-ceo)
 * [For more information](#more)
 
 
@@ -32,7 +32,7 @@ Purpose:
 
 History:
 
-  * OKR was invented at Intel and championed by Andy Grove, CEO.
+  * OKR was invented at Intel and championed by Andy Grove, Intel CEO.
 
 * OKR is in use by many companies, including Intel, Google, Microsoft, Twitter, and Uber.
 
@@ -143,13 +143,19 @@ For example, “Launch an Awesome MVP” might have KR’s of:
   * 10% conversion
 
 
-<h2><a name="okr-is-not-employee-evaluation">OKR is not employee evaluation</a></h2>
+<h2><a name="okr-quotes-by-andy-grove-intel-ceo">OKR quotes by Andy Grove, Intel CEO</a></h2>
 
-OKR is not synonymous with an employee evaluation:
+Andy Grove, Intel CEO, first spoke about “Objectives and Key Results” (OKR) in his book High Output Management.
 
-  * OKRs are about the company’s goals, team's goals, and person's goals, and how each person contributes to the goals.
+"A successful system needs only to answer two questions: Where do I want to go? The answer provides the Objective. How will I pace myself to see if I’m getting there? The answer gives us Key Results."
 
-  * Performance evaluations should be independent from OKRs.
+“The one thing OKR provides par excellence is focus.”
+
+“We see a nesting hierarchy of Objectives: if the subordinate’s Objectives are met, the supervisor’s Objectives will be met as well.”
+
+“To be useful a Key Result must contain very specific wording and dates, so that when the deadline time arrives, there is no room for ambiguity.”
+
+“OKR is meant to pace a person – to put a stopwatch in his own hand so he can gauge his own performance. It is not a legal document upon which to base a performance review, but should be just one input used to determine how well an individual is doing. If the supervisor mechanically relies on the MBO system to evaluate his subordinate’s performance, or if the subordinate uses it rigidly and forgoes taking advantage of an emerging opportunity because it was not a specified Objective or Key Result, then both are behaving in a petty and unprofessional fashion.”
 
 
 <h2><a name="more">For more information</a></h2>
