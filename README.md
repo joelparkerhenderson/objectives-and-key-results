@@ -2,14 +2,15 @@
 
 <img src="README.png" alt="Objective" style="width: 100%;"/>
 
+Contents:
 * [What is OKR?](#what-is-okr)
 * [What is an objective?](#what-is-an-objective)
-* [What is a key result](#what-is-a-key-result)
-* [OKR quotes](#okr-quotes-by-andy-grove-intel-ceo)
-* [For more information](#more)
+* [What is a key result?](#what-is-a-key-result)
+* [OKR quotes by Andy Grove, Intel CEO](#okr-quotes-by-andy-grove-intel-ceo)
+* [For more information](#for-more-information)
 
 
-<h2><a name="what-is-okr">What is OKR?</a></h2>
+## What is OKR?
 
 OKR stands for Objectives and Key Results.
 
@@ -51,7 +52,7 @@ Related:
 * [Key Performance Indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
 
 
-<h2><a name="objective">What is an objective?</a></h2>
+## What is an objective?
 
 Your objective should be:
 
@@ -120,7 +121,7 @@ All high-performance OKR systems have these commonalities:
   * Most people wouldn’t consider 70% to be a good grade, but for OKRs that’s just about perfect, Davis says.
 
 
-<h2><a name="key-result">What is a key result?</a></h2>
+## What is a key result?
 
 Key results take the inspirational language and quantify it.
 
@@ -143,7 +144,7 @@ For example, “Launch an Awesome MVP” might have KR’s of:
   * 10% conversion
 
 
-<h2><a name="okr-quotes-by-andy-grove-intel-ceo">OKR quotes by Andy Grove, Intel CEO</a></h2>
+## OKR quotes by Andy Grove, Intel CEO
 
 Andy Grove, Intel CEO, first spoke about “Objectives and Key Results” (OKR) in his book High Output Management.
 
@@ -158,7 +159,7 @@ Andy Grove, Intel CEO, first spoke about “Objectives and Key Results” (OKR) 
 “OKR is meant to pace a person – to put a stopwatch in his own hand so he can gauge his own performance. It is not a legal document upon which to base a performance review, but should be just one input used to determine how well an individual is doing. If the supervisor mechanically relies on the MBO system to evaluate his subordinate’s performance, or if the subordinate uses it rigidly and forgoes taking advantage of an emerging opportunity because it was not a specified Objective or Key Result, then both are behaving in a petty and unprofessional fashion.”
 
 
-<h2><a name="more">For more information</a></h2>
+## For more information
 
 * Credit: [Cove OKR examples](https://www.talentcove.com/okrs/okr-examples.html)
 * Credit: [First Round Review: How to make OKRs actually work at your startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
