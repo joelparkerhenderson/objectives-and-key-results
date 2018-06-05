@@ -174,4 +174,4 @@ Andy Grove, Intel CEO, first spoke about “Objectives and Key Results” (OKR) 
 * Credit: [First Round Review: How to make OKRs actually work at your startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
 * [The Fundamentals: Objectives & Key Results](https://medium.com/startup-tools/okrs-5afdc298bc28)
 * [Quora: How do I write an OKR?](https://www.quora.com/How-do-I-write-an-OKR)
-* [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.tfxnwa110]
+* [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.tfxnwa110)
