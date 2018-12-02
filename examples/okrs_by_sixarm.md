@@ -1,4 +1,4 @@
-# OKRs by SixArm
+# Objectives and Key Results (OKRs) by SixArm.com
 
 Objectives and Key Results (OKRs) are best when they are specific, measurable, actionable, relevant, timely (SMART).
 

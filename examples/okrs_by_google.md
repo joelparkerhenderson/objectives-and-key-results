@@ -1,4 +1,4 @@
-#  Objectives and Key Results (OKRs) at Google
+#  Objectives and Key Results (OKRs) by Google
 
 Credit: [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/pdf/1702.01715.pdf)
 

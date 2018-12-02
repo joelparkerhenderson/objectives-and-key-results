@@ -1,4 +1,4 @@
-# OKRs by Atiim
+# Objectives and Key Results (OKRs) by Atiim.com
 
 See https://www.atiim.com/okr-goals-examples/ 
 
