@@ -20,7 +20,7 @@ Contents:
 
 Examples:
 * [OKRs by SixArm](examples/okrs_by_sixarm.md)
-* [OKRs by Google](examples/okrs_by_atiim.md)
+* [OKRs by Attim](examples/okrs_by_atiim.md)
 * [OKRs by Google](examples/okrs_by_google.md)
 
 
