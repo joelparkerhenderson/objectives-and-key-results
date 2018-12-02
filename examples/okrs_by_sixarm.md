@@ -1,4 +1,4 @@
-# OKR examples
+# OKRs by SixArm
 
 Objectives and Key Results (OKRs) are best when they are specific, measurable, actionable, relevant, timely (SMART).
 
@@ -47,7 +47,7 @@ People examples:
 
 
 
-## Best OKR in our opinion
+## OKR example for customer satisfaction
 
 
 Objective: Increase customer satisfaction by +10% during this quarter; measure by Net Promoter Score.
