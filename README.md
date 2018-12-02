@@ -18,6 +18,10 @@ Contents:
 * [OKR quotes by Andy Grove, Intel CEO](#okr-quotes-by-andy-grove-intel-ceo)
 * [For more information](#for-more-information)
 
+Examples:
+* [Our best professional examples](examples.md)
+* [OKRs at Google](examples/okrs-at-google.md)
+
 
 ## What is OKR?
 
