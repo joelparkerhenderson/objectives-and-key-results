@@ -23,9 +23,9 @@ Capability examples:
 
 * Run {process} during {timeframe}; track by {metric}.
 
-* Add {feature} by {date}; track progress by {metric}.
+* Add {feature} by {date}; track by {metric}.
 
-* Complete {task} by {deadline}; track completion by {metric}.
+* Complete {task} by {deadline}; track by {metric}.
 
 
 Singular examples:
