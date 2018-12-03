@@ -60,3 +60,5 @@ Key results:
 
 * During week 2-4, create an action plan of potential improvements, and present the plan to stakeholders. Provide one week for consideration then choose the high-value improvements to implement this quarter.
 
+* During week 5-12, implement the high value improvements; track progress by using the organization's existing project management tools.
+
