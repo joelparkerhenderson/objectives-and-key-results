@@ -12,38 +12,38 @@ If you have ideas for more, or constructive advice, or want to share your firsth
 
 Growth examples:
 
-* Improve {topic} by {x%} during {timeframe}; measure by {metric}.
+* Improve {topic} by {x%} during {timeframe}.Measure by {metric}.
 
-* Increase {value} from {x} to {y} by {date}; measure by {metric}.
+* Increase {value} from {x} to {y} by {date}. Measure by {metric}.
 
-* Grow {amount} by {n} steps by {deadline}; measure by {metric}.
+* Grow {amount} by {n} steps by {deadline}. Measure by {metric}.
 
 
 Capability examples:
 
-* Run {process} during {timeframe}; track by {metric}.
+* Run {process} during {timeframe}. Track by {metric}.
 
-* Add {feature} by {date}; track by {metric}.
+* Add {feature} by {date}. Track by {metric}.
 
-* Complete {task} by {deadline}; track by {metric}.
+* Complete {task} by {deadline}. Track by {metric}.
 
 
 Singular examples:
 
-* Evaluate {choices} during {timeframe} and choose the result; confirm by {metric}.
+* Evaluate {choices} during {timeframe} and choose the result. Confirm by {metric}.
 
-* Present {topic} to {stakeholders} on {date} with the goal of {purpose}; confirm by {metric}.
+* Present {topic} to {stakeholders} on {date} with the goal of {purpose}. Confirm by {metric}.
 
-* Get {item} by {deadline} for {purpose}; confirm by {metric}.
+* Get {item} by {deadline} for {purpose}. Confirm by {metric}.
 
 
 People examples:
 
-* Interview {n} customers about {purpose} during {timeframe} and report results; quantify by {metric}.
+* Interview {n} customers about {purpose} during {timeframe} and report results. Quantify by {metric}.
 
-* Ensure {n} partners are coming to {event} on {date}; quantify by {metric}.
+* Ensure {n} partners are coming to {event} on {date}. Quantify by {metric}.
 
-* Manage {n} employees to accomplish {task} by {deadline}; quantify by {metric}.
+* Manage {n} employees to accomplish {task} by {deadline}. Quantify by {metric}.
 
 
 
