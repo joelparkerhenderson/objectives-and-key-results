@@ -54,11 +54,8 @@ Objective: Increase customer satisfaction by +10% during this quarter; measure b
 
 Key results:
 
-* Send email survey of Net Promoter Score (NPS) to all customers at start of quarter and at end of quarter.
+* Send email survey of Net Promoter Score (NPS) to selected customers, at the start of the quarter, and at the end of the quarter. Report results to stakeholders, using an abstract, highlights, and data.
 
-* During week 1-2, interview 3 customers who recently joined, 3 customers who are longstanding, and 3 customers who recently churned. Report the results to stakeholders, using an abstract, highlights, and all data.
+* Interview 3 customers who recently joined, 3 customers who are longstanding, and 3 customers who recently churned. Get NPS scores. Report results as above.
 
-* During week 2-4, create an action plan of potential improvements, and present the plan to stakeholders. Provide one week for consideration then choose the high-value improvements to implement this quarter.
-
-* During week 5-12, implement the high value improvements; track progress by using the organization's existing project management tools.
-
+* Create an action plan of potential improvements, and present the plan to stakeholders. Choose the high-value improvements to implement this quarter. Implement them. Ttrack progress by using the organization's project management tools. Report results as above.
