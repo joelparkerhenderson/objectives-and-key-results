@@ -58,4 +58,4 @@ Key results:
 
 * Interview 3 customers who recently joined, 3 customers who are longstanding, and 3 customers who recently churned. Get NPS scores. Report results as above.
 
-* Create an action plan of potential improvements, and present the plan to stakeholders. Choose the high-value improvements to implement this quarter. Implement them. Ttrack progress by using the organization's project management tools. Report results as above.
+* Create an action plan of potential improvements, and present the plan to stakeholders. Choose improvements to do, do them, and track progress with the organization's project management tools. Report results as above.
