@@ -2,7 +2,7 @@
 
 Objectives and Key Results (OKRs) are best when they are specific, measurable, actionable, relevant, timely (SMART).
 
-This page has OKR examples that are good in our experience. Use these as you like. 
+This page has OKR examples that are good in our experience. Use these as you like.
 
 If you have ideas for more, or constructive advice, or want to share your firsthand experience, then please send feedback.
 
@@ -12,11 +12,20 @@ If you have ideas for more, or constructive advice, or want to share your firsth
 
 Growth examples:
 
-* Improve {topic} by {x%} during {timeframe}.Measure by {metric}.
+* Improve {topic} by {x%} during {timeframe}. Measure by {metric}.
 
 * Increase {value} from {x} to {y} by {date}. Measure by {metric}.
 
 * Grow {amount} by {n} steps by {deadline}. Measure by {metric}.
+
+
+Scoreboard examples:
+
+* Boost {topic} score by {x%} during {timeframe}. Score by {metric}.
+
+* Raise rating of {topic} from {x} to {y} by {date}. Score by {metric}.
+
+* Achieve {n} points by {deadline}. Score by {metric}.
 
 
 Capability examples:
@@ -45,6 +54,14 @@ People examples:
 
 * Manage {n} employees to accomplish {task} by {deadline}. Quantify by {metric}.
 
+
+Queueing examples:
+
+* Achieve lead time of {duration} during {timeframe}. Time by {metric}.
+
+* Accelerate service rate from {x} to {y} by {date}. Time by {metric}.
+
+* Drill successful time to restore {n} times by {deadline}. Time by {metric}.
 
 
 ## OKR example for customer satisfaction
