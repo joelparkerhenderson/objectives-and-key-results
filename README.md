@@ -22,8 +22,8 @@ Contents:
   * [Are OKRs heavyweight or lightweight?](#are-okrs-heavyweight-or-lightweight)
   * [How long should I spend writing OKRs?](#how-long-should-i-spend-writing-okrs)
   * [How do OKRs compare to other communication approaches?](#how-do-okrs-compare-to-other-communication-approaches)
-  * [How do OKRs compare to other communication approaches, such as messaging, email, or chat?](#how-do-okrs-compare-to-other-communication-approaches-such-as-messaging-email-or-chat)
-  * [How do OKRs compare to task lists and work boards?](#how-do-okrs-compare-to-task-lists-and-work-boards)
+  * [How do OKRs compare to messaging, email, or chat?](#how-do-okrs-compare-to-messaging-email-or-chat)
+  * [How do OKRs compare to task lists or work boards?](#how-do-okrs-compare-to-task-lists-or-work-boards)
 * [For more information](#for-more-information)
 
 Examples:
