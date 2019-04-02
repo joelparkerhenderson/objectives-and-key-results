@@ -24,7 +24,7 @@ Contents:
   * [Are OKRs heavyweight or lightweight?](#are-okrs-heavyweight-or-lightweight)
   * [How long should I spend writing OKRs?](#how-long-should-i-spend-writing-okrs)
   * [How does OKR compare to other communication approaches?](#how-does-okr-compare-to-other-communication-approaches)
-  * [How does OKR compare to messaging, email, or chat?](#how-does-okr-compare-to-messaging-email-or-chat)
+  * [How does OKR compare to email or chat?](#how-does-okr-compare-to-email-or-chat)
   * [How does OKR compare to task lists or work boards?](#how-does-okr-compare-to-task-lists-or-work-boards)
 * [Comments](#comments)
   * [Pros](#pros)
@@ -32,9 +32,9 @@ Contents:
 * [For more information](#for-more-information)
 
 Examples:
-* [OKRs by SixArm](examples/okrs_by_sixarm.md)
-* [OKRs by Attim](examples/okrs_by_atiim.md)
-* [OKRs by Google](examples/okrs_by_google.md)
+* [OKR examples by SixArm](examples/okrs_by_sixarm.md)
+* [OKR examples by Attim](examples/okrs_by_atiim.md)
+* [OKR examples by Google](examples/okrs_by_google.md)
 
 
 ## What is OKR?
@@ -250,7 +250,7 @@ OKRs are intended to be visible to all the participants, so all the teams can un
 If your teams are doing these kinds of ideas above, and communicating these among your teams reguarly by other communication approaches, then generally speaking you're already doing the conceptual equivalent of OKRs. Recall that OKRs are a concept, not a specific communication protocol (such as email or chat), and not a specific kind of interface (such as a task list or work board).
 
 
-### How does OKR compare to messaging, email, or chat?
+### How does OKR compare to email or chat?
 
 OKRs are different than team communication via messaging, email, and chat because OKRs provide always-up-to-date shared visibility and progress measurement.
 
