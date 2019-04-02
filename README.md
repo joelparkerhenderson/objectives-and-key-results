@@ -182,9 +182,9 @@ Ability to stretch:
 ## OKR quotations
 
 
-### OKR quotations by Andy Grove, Intel CEO
+### OKR quotations by Andy Grove
 
-Andy Grove, Intel CEO, first spoke about “Objectives and Key Results” (OKR) in his book High Output Management.
+Andy Grove, CEO at Intel, first spoke about “Objectives and Key Results” (OKR) in his book High Output Management.
 
 "A successful system needs only to answer two questions: Where do I want to go? The answer provides the Objective. How will I pace myself to see if I’m getting there? The answer gives us Key Results."
 
@@ -199,7 +199,7 @@ Andy Grove, Intel CEO, first spoke about “Objectives and Key Results” (OKR) 
 
 ### OKR quotations by John Doerr
 
-John Doerr, famous venture capitalist, wrote the book "Measure What Matters" to teach OKRs and why they help companies succeed.
+John Doerr, venture capitalist at Kleiner Perkins, wrote the book "Measure What Matters" to teach OKRs and why they help companies succeed.
 
 "Objectives and key results are clear vessels for leaders’ priorities and insights."
 
