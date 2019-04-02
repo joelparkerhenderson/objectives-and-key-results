@@ -49,7 +49,7 @@ History:
 
   * OKR was invented at Intel and championed by Andy Grove, Intel CEO.
 
-* OKR is in use by many companies, including Intel, Google, Microsoft, Twitter, and Uber.
+  * OKR is in use by many companies, including Intel, Google, Microsoft, Twitter, and Uber.
 
 Ground rules:
 
@@ -69,8 +69,6 @@ Related:
 ## What is an objective?
 
 Your objective should be:
-
-* Qualitative
 
 * Inspirational
 
@@ -92,21 +90,32 @@ Your objective should be:
 
 * Actionable by the team independently
 
-  * Your Objective has to be truly yours
+  * Your objective has to be truly yours
 
   * You can’t have any excuse of interdependence, such as "marketing didn’t market it."
+
+* Measurable by the team independently
+
+  * You have know if you've succeeded, or it you're making progress, and how much.
+
+  * You can't have any excuse of independence, such as "That other team didn't measure it."
+
 
 
 For example, some good objectives:
 
   * Launch an Awesome MVP.
+
   * Succeed in raising Series A investment.
+
   * Transform San Francisco’s shopping habits.
 
 For example, some good key results:
 
   * Sales numbers up 30%.
+
   * Raise a Series A investment of $1MM.
+
   * Double our userbase.
 
 
