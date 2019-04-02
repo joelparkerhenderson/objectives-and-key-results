@@ -261,7 +261,7 @@ Some web services are offering ways to blend OKRs with typical task lists and wo
 
 ## Comments
 
-Comments from [Hacker News](https://news.ycombinator.com/item?id=19549453)
+Comments from [Hacker News](https://news.ycombinator.com/item?id=19549453) and related blog posts.
 
 
 ### Pros
@@ -307,6 +307,8 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 "I like having a static quarterly document, in a super easy to access place. It must be one page max and lay out the "theme" of the quarter and supporting initiatives. Every team weekly summary email has a link to this document in the footer. Tracker — or whatever you use — has epics et al. aligned with this document."
 
 "I worked at a startup that started OKRs and I found experience super enjoyable, to the point where working in a more relaxed environment (for lack of a better description) is kinda hard these days. The two things people and teams struggled the most with though, IMHO: 1) Coming up with a good OKR that met longer term, higher level company priorities that intersected your work. 2) Coming up with a good ORK in terms of measurable key results. It can be tough and time consuming to get the measurements in place necessary to gauge the results, or even make a case for the OKR in the first place (incidentally this is the dirty secret of SRE IMHO). We would pro-actively get data collection in place on occasion for reasons that included helping to launch and score future OKRs."
+
+ "As a manager, you have to talk about performance. If you’re not, you’re failing your company and you’re failing your team. If OKRs help you do this, go for it. If not, find another tool. What’s important is that you talk about performance, early and often."
 
 "Figuring out why you do what you do and how you measure the success of that in a way that leads you to the right result IS hard but extremely valuable work. It forces you to deeply understand the problem you're solving and the challenges you face."
 
@@ -364,6 +366,10 @@ Related:
 * [The Fundamentals: Objectives & Key Results](https://medium.com/startup-tools/okrs-5afdc298bc28)
 * [Quora: How do I write an OKR?](https://www.quora.com/How-do-I-write-an-OKR)
 * [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.tfxnwa110)
+
+Posts:
+
+* [Goals aren’t enough; you have to talk about performance, too - By Jacob Kaplan-Moss](https://jacobian.org/2019/apr/1/talk-about-performance/)
 
 Credit:
 
