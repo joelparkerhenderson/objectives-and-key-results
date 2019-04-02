@@ -18,7 +18,7 @@ Contents:
 * [What is a key result?](#what-is-a-key-result)
 * [OKR systems](#okr-systems)
 * [OKR quotations](#okr-quotations)
-  * [OKR quotations by Andy Grove, Intel CEO](#okr-quotations-by-andy-grove-intel-ceo)
+  * [OKR quotations by Andy Grove](#okr-quotations-by-andy-grove)
   * [OKR quotations by John Doerr](#okr-quotations-by-john-doerr)
 * [FAQ](#faq)
   * [Are OKRs heavyweight or lightweight?](#are-okrs-heavyweight-or-lightweight)
