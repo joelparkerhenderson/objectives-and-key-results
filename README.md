@@ -15,7 +15,15 @@ Contents:
 * [What is OKR?](#what-is-okr)
 * [What is an objective?](#what-is-an-objective)
 * [What is a key result?](#what-is-a-key-result)
-* [OKR quotes by Andy Grove, Intel CEO](#okr-quotes-by-andy-grove-intel-ceo)
+* [OKR quotations](#okr-quotations)
+  * [OKR quotations by Andy Grove, Intel CEO](#okr-quotations-by-andy-grove-intel-ceo)
+  * [OKR quotations by John Doerr](#okr-quotations-by-john-doerr)
+* [FAQ](#faq)
+  * [Are OKRs heavyweight or lightweight?](#are-okrs-heavyweight-or-lightweight)
+  * [How long should I spend writing OKRs?](#how-long-should-i-spend-writing-okrs)
+  * [How do OKRs compare to other communication approaches?](#how-do-okrs-compare-to-other-communication-approaches)
+  * [How do OKRs compare to other communication approaches, such as messaging, email, or chat?](#how-do-okrs-compare-to-other-communication-approaches-such-as-messaging-email-or-chat)
+  * [How do OKRs compare to task lists and work boards?](#how-do-okrs-compare-to-task-lists-and-work-boards)
 * [For more information](#for-more-information)
 
 Examples:
