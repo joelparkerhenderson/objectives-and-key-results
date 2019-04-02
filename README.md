@@ -7,7 +7,7 @@
   * options: commentable
 -->
 
-# Objectives and Key Results (OKR) tutorial
+# Objectives and Key Results (OKR)
 
 <img src="README.png" alt="Objective" style="width: 100%;"/>
 
