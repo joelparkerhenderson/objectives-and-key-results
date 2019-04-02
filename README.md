@@ -107,8 +107,7 @@ Your objective should be:
   * You can't have any excuse of independence, such as "That other team didn't measure it."
 
 
-## Examples
-
+### Example objectives
 
 For example, some good objectives:
 
@@ -118,14 +117,7 @@ For example, some good objectives:
 
   * Transform San Francisco’s shopping habits.
 
-For example, some good key results:
-
-  * Sales numbers up 30%.
-
-  * Raise a Series A investment of $1MM.
-
-  * Double our userbase.
-
+See many more examples [here](examples/okrs_by_sixarm.md)
 
 
 ## What is a key result?
@@ -149,6 +141,19 @@ For example, “Launch an Awesome MVP” might have KR’s of:
   * Net Promotor Score (NPS) of 8/10
   * 20% of users come back 2X in one week
   * 10% conversion
+
+
+### Example key results
+
+For example, some good key results:
+
+  * Sales numbers up 30%.
+
+  * Raise a Series A investment of $1MM.
+
+  * Double our userbase.
+
+See many more examples [here](examples/okrs_by_sixarm.md)
 
 
 ## OKR systems
