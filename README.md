@@ -167,7 +167,10 @@ For example, “Launch an Awesome MVP” might have KR’s of:
   * 10% conversion
 
 
-## OKR quotes by Andy Grove, Intel CEO
+## OKR quotations
+
+
+### OKR quotations by Andy Grove, Intel CEO
 
 Andy Grove, Intel CEO, first spoke about “Objectives and Key Results” (OKR) in his book High Output Management.
 
@@ -180,6 +183,68 @@ Andy Grove, Intel CEO, first spoke about “Objectives and Key Results” (OKR) 
 “To be useful a Key Result must contain very specific wording and dates, so that when the deadline time arrives, there is no room for ambiguity.”
 
 “OKR is meant to pace a person – to put a stopwatch in his own hand so he can gauge his own performance. It is not a legal document upon which to base a performance review, but should be just one input used to determine how well an individual is doing. If the supervisor mechanically relies on the MBO system to evaluate his subordinate’s performance, or if the subordinate uses it rigidly and forgoes taking advantage of an emerging opportunity because it was not a specified Objective or Key Result, then both are behaving in a petty and unprofessional fashion.”
+
+
+### OKR quotations by John Doerr
+
+John Doerr, famous venture capitalist, wrote the book "Measure What Matters" to teach OKRs and why they help companies succeed.
+
+"Objectives and key results are clear vessels for leaders’ priorities and insights."
+
+"By clearing the line of sight to everyone’s objectives, OKRs save time and money."
+
+"Transparency seeds collaboration."
+
+"Continuous recognition is a powerful driver of engagement."
+
+"Nothing moves us forward like a deadline."
+
+"Healthy culture and structured goal setting are interdependent."
+
+
+
+## FAQ
+
+
+### Are OKRs heavyweight or lightweight?
+
+OKRs are lightweight. This is on purpose. OKRs are deliberately created to be lightweight goal tracking, that is effective for teams of all sizes, that provide high-level summaries with ways to know progress.
+
+
+### How long should I spend writing OKRs?
+
+If you know what you're doing, in terms of your goals, your intentions for deadlines, and how you want to make progress, then writing OKRs should take you minutes. If you don't know what you're doing, or you want to communicate with more clarity among many teams, then you can spend more time honing them. 
+
+For example, here's how one company of a hundred people does it. Each month, each team, department, and chief officer spends one hour writing OKRs, and one hour reading everyone OKRs. Typically this is all fast and easy, because all participants have a good general idea of their own work goals, deadlines, and progress points, and the participants have good ongoing communications overall. All the participants are free to edit and polish their OKRs are they wish, based on feedback from other participants and based on better understanding from other OKRs.
+
+
+### How do OKRs compare to other communication approaches?
+
+OKRs summarize each team's few most-important goals, deadlines, and progress points. OKRs are quick, fast, easy, and light, which helps all the participants.
+
+OKRs emphasize how to measure whether a key result is accomplished, and how to measure progress on it.
+
+OKRs are intended to be visible to all the participants, so all the teams can understand all the top few goals.
+
+If your teams are doing these kinds of ideas above, and communicating these among your teams reguarly by other communication approaches, then generally speaking you're already doing the conceptual equivalent of OKRs. Recall that OKRs are a concept, not a specific communication protocol (such as email or chat), and not a specific kind of interface (such as a task list or work board).
+
+
+### How do OKRs compare to other communication approaches, such as messaging, email, or chat?
+
+OKRs are different than team communication via messaging, email, and chat because OKRs provide always-up-to-date shared visibility and progress measurement.
+
+For example, when a new person joins a team, then the new person can see all the OKRs, and do not need to dig through message archives, or email mailboxs, or chat channels. 
+
+In addition, OKRs are intended to roll up, so each team can have its own OKRs, which will roll up into a department's OKRs, which will roll up into the company's OKRs; this enables participants to quickly look at different levels of resolution of goals, which is very useful for balancing priorities among teams.
+
+
+### How do OKRs compare to task lists and work boards?
+
+OKRs focus on the top few goals, deadlines, and progress points; task lists and work boards typically capture much more information, such as a total enumeration of all task items or work items.
+
+OKRs aim to solve the problem of "how do we quickly communicate about teams' most important goals?"; task lists and work boards typically aim to solve the problem of "how do I capture every to-do item?".
+
+Some web services are offering ways to blend OKRs with typical task lists and work boards, including ways to summarize goals, and track proress, and roll up task items and work items into the relevant OKRs. Teams can use these services to get the best of both worlds.
 
 
 ## For more information
