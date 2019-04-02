@@ -14,16 +14,21 @@
 Contents:
 * [What is OKR?](#what-is-okr)
 * [What is an objective?](#what-is-an-objective)
+* [Examples](#examples)
 * [What is a key result?](#what-is-a-key-result)
+* [OKR systems](#okr-systems)
 * [OKR quotations](#okr-quotations)
   * [OKR quotations by Andy Grove, Intel CEO](#okr-quotations-by-andy-grove-intel-ceo)
   * [OKR quotations by John Doerr](#okr-quotations-by-john-doerr)
 * [FAQ](#faq)
   * [Are OKRs heavyweight or lightweight?](#are-okrs-heavyweight-or-lightweight)
   * [How long should I spend writing OKRs?](#how-long-should-i-spend-writing-okrs)
-  * [How do OKRs compare to other communication approaches?](#how-do-okrs-compare-to-other-communication-approaches)
-  * [How do OKRs compare to messaging, email, or chat?](#how-do-okrs-compare-to-messaging-email-or-chat)
-  * [How do OKRs compare to task lists or work boards?](#how-do-okrs-compare-to-task-lists-or-work-boards)
+  * [How does OKR compare to other communication approaches?](#how-does-okr-compare-to-other-communication-approaches)
+  * [How does OKR compare to messaging, email, or chat?](#how-does-okr-compare-to-messaging-email-or-chat)
+  * [How does OKR compare to task lists or work boards?](#how-does-okr-compare-to-task-lists-or-work-boards)
+* [Comments](#comments)
+  * [Pros](#pros)
+  * [Cons](#cons)
 * [For more information](#for-more-information)
 
 Examples:
@@ -39,9 +44,10 @@ OKR stands for Objectives and Key Results.
 OKR is a method of defining objectives and tracking their outcomes:
 
   * The Objective: what we want to achieve
-  * The Key Results: how do we know we are getting there
 
-To create an OKR, use this one sentence:
+  * The Key Results: how we want to know we are making progress
+
+To create an OKR, one way is to use this sentence:
 
   * I will (Objective) as measured by (this set of Key Results).
 
@@ -64,14 +70,6 @@ Ground rules:
   * OKR items are visible to the whole organization, by default.
 
   * OKR visbility helps teams work together, and helps everyone know what others are doing.
-
-
-Related:
-* [Wikipedia OKR](https://en.wikipedia.org/wiki/OKR)
-* [The Art of the OKR](http://eleganthack.com/the-art-of-the-okr/)
-* [How to make OKRs actually work at your startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
-* [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
-* [Key Performance Indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
 
 
 ## What is an objective?
@@ -109,6 +107,8 @@ Your objective should be:
   * You can't have any excuse of independence, such as "That other team didn't measure it."
 
 
+## Examples
+
 
 For example, some good objectives:
 
@@ -126,30 +126,6 @@ For example, some good key results:
 
   * Double our userbase.
 
-
-All high-performance OKR systems have these commonalities:
-
-* The ability to track results on a quantitative basis.
-
-  * Key results are not general or subjective actions you plan to take.
-
-  * They should always include numbers to make it clear how much has been achieved.
-
-  * For example, if Mary’s objective is to improve her sales prospecting skills, one key result might be to spend two hours a week shadowing Jennifer, the team member who demonstrates the most prospecting success.
-
-* Make it something people look at, every quarter, every week, every day.
-
-  * This consistency turns goal-setting into a habit and changes how people think about their work and approach their everyday to-dos.
-
-  * It puts in place natural milestones that make you think about what you need to do next and aim high.
-
-* They have to be a stretch.
-
-  * You want your objectives to be ambitious enough to push you beyond your limits.
-
-  * When everyone does this, it forces the tough conversations about what's truly needed to beat expectations.
-
-  * Most people wouldn’t consider 70% to be a good grade, but for OKRs that’s just about perfect, Davis says.
 
 
 ## What is a key result?
@@ -173,6 +149,34 @@ For example, “Launch an Awesome MVP” might have KR’s of:
   * Net Promotor Score (NPS) of 8/10
   * 20% of users come back 2X in one week
   * 10% conversion
+
+
+## OKR systems
+
+
+All high-performance OKR systems have commonalities.
+
+Ability to track results on a quantitative basis:
+
+  * Key results are not general or subjective actions you plan to take.
+
+  * They should always include numbers to make it clear how much has been achieved.
+
+  * For example, if Mary’s objective is to improve her sales prospecting skills, one key result might be to spend two hours a week shadowing Jennifer, the team member who demonstrates the most prospecting success.
+
+Ability for people to look at every day:
+
+  * This consistency turns goal-setting into a habit and changes how people think about their work and approach their everyday to-dos.
+
+  * It puts in place natural milestones that make you think about what you need to do next and aim high.
+
+Ability to stretch:
+
+  * You want objectives to be ambitious enough to push you beyond your limits.
+
+  * When everyone does this, it forces tough conversations about what's truly needed to beat expectations.
+
+  * Most people wouldn’t consider 70% to be a good grade, but for OKRs that’s just about perfect.
 
 
 ## OKR quotations
@@ -226,7 +230,7 @@ If you know what you're doing, in terms of your goals, your intentions for deadl
 For example, here's how one company of a hundred people does it. Each month, each team, department, and chief officer spends one hour writing OKRs, and one hour reading everyone OKRs. Typically this is all fast and easy, because all participants have a good general idea of their own work goals, deadlines, and progress points, and the participants have good ongoing communications overall. All the participants are free to edit and polish their OKRs are they wish, based on feedback from other participants and based on better understanding from other OKRs.
 
 
-### How do OKRs compare to other communication approaches?
+### How does OKR compare to other communication approaches?
 
 OKRs summarize each team's few most-important goals, deadlines, and progress points. OKRs are quick, fast, easy, and light, which helps all the participants.
 
@@ -237,7 +241,7 @@ OKRs are intended to be visible to all the participants, so all the teams can un
 If your teams are doing these kinds of ideas above, and communicating these among your teams reguarly by other communication approaches, then generally speaking you're already doing the conceptual equivalent of OKRs. Recall that OKRs are a concept, not a specific communication protocol (such as email or chat), and not a specific kind of interface (such as a task list or work board).
 
 
-### How do OKRs compare to messaging, email, or chat?
+### How does OKR compare to messaging, email, or chat?
 
 OKRs are different than team communication via messaging, email, and chat because OKRs provide always-up-to-date shared visibility and progress measurement.
 
@@ -246,7 +250,7 @@ For example, when a new person joins a team, then the new person can see all the
 In addition, OKRs are intended to roll up, so each team can have its own OKRs, which will roll up into a department's OKRs, which will roll up into the company's OKRs; this enables participants to quickly look at different levels of resolution of goals, which is very useful for balancing priorities among teams.
 
 
-### How do OKRs compare to task lists or work boards?
+### How does OKR compare to task lists or work boards?
 
 OKRs focus on the top few goals, deadlines, and progress points; task lists and work boards typically capture much more information, such as a total enumeration of all task items or work items.
 
@@ -350,8 +354,20 @@ So I (and everyone around me) don't take them seriously. We take the actual dead
 
 ## For more information
 
-* Credit: [Cove OKR examples](https://www.talentcove.com/okrs/okr-examples.html)
-* Credit: [First Round Review: How to make OKRs actually work at your startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
+Related:
+
+* [Wikipedia OKR](https://en.wikipedia.org/wiki/OKR)
+* [The Art of the OKR](http://eleganthack.com/the-art-of-the-okr/)
+* [How to make OKRs actually work at your startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
+* [Strategic Balanced Scorecard](https://github.com/joelparkerhenderson/strategic_balanced_scorecard)
+* [Key Performance Indicator](https://github.com/joelparkerhenderson/key_performance_indicator)
 * [The Fundamentals: Objectives & Key Results](https://medium.com/startup-tools/okrs-5afdc298bc28)
 * [Quora: How do I write an OKR?](https://www.quora.com/How-do-I-write-an-OKR)
 * [How Google sets goals: OKRs](https://library.gv.com/how-google-sets-goals-okrs-a1f69b0b72c7#.tfxnwa110)
+
+Credit:
+
+* [Cove OKR examples](https://www.talentcove.com/okrs/okr-examples.html)
+* [First Round Review: How to make OKRs actually work at your startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)
+
+
