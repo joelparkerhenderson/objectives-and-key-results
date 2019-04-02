@@ -237,7 +237,7 @@ OKRs are intended to be visible to all the participants, so all the teams can un
 If your teams are doing these kinds of ideas above, and communicating these among your teams reguarly by other communication approaches, then generally speaking you're already doing the conceptual equivalent of OKRs. Recall that OKRs are a concept, not a specific communication protocol (such as email or chat), and not a specific kind of interface (such as a task list or work board).
 
 
-### How do OKRs compare to other communication approaches, such as messaging, email, or chat?
+### How do OKRs compare to messaging, email, or chat?
 
 OKRs are different than team communication via messaging, email, and chat because OKRs provide always-up-to-date shared visibility and progress measurement.
 
@@ -246,7 +246,7 @@ For example, when a new person joins a team, then the new person can see all the
 In addition, OKRs are intended to roll up, so each team can have its own OKRs, which will roll up into a department's OKRs, which will roll up into the company's OKRs; this enables participants to quickly look at different levels of resolution of goals, which is very useful for balancing priorities among teams.
 
 
-### How do OKRs compare to task lists and work boards?
+### How do OKRs compare to task lists or work boards?
 
 OKRs focus on the top few goals, deadlines, and progress points; task lists and work boards typically capture much more information, such as a total enumeration of all task items or work items.
 
