@@ -32,9 +32,9 @@ Contents:
 * [For more information](#for-more-information)
 
 Examples:
-* [OKR examples by SixArm](examples/okrs_by_sixarm.md)
-* [OKR examples by Attim](examples/okrs_by_atiim.md)
-* [OKR examples by Google](examples/okrs_by_google.md)
+* [OKR examples by SixArm](examples/okrs-by-sixarm/index.md)
+* [OKR examples by Attim](examples/okrs-by-atiim/index.md)
+* [OKR examples by Google](examples/okrs-by-google/index.md)
 
 
 ## What is OKR?
