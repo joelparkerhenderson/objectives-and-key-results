@@ -43,7 +43,7 @@ https://hypercontext.com/goal-examples
     * [Hire and onboard new reps to fill in sales gaps](#hire-and-onboard-new-reps-to-fill-in-sales-gaps)
     * [Total $7.5M of net-new bookings](#total-7-5m-of-net-new-bookings)
     * [Generate $5M of net-new revenue](#generate-5m-of-net-new-revenue)
-  * [Head of Sales Goal Examples](#head-of-sales-goal-examples)
+  * [Head of Sales](#head-of-sales)
     * [Optimize our sales process](#optimize-our-sales-process)
     * [Build out the sales team](#build-out-the-sales-team)
     * [Generate $5M of net-new revenue](#generate-5m-of-net-new-revenue)
@@ -56,7 +56,7 @@ https://hypercontext.com/goal-examples
     * [Achieve close-won rate of 10% or higher](#achieve-close-won-rate-of-10-or-higher)
     * [Maintain a sales cycle of 2 months or less](#maintain-a-sales-cycle-of-2-months-or-less)
     * [Maintain $500,000 in active pipeline](#maintain-500-000-in-active-pipeline)
-  * [Account Manager Goal Examples](#account-manager-goal-examples)
+  * [Account Manager](#account-manager)
     * [Meet and exceed monthly, quarterly, and annual quotas](#meet-and-exceed-monthly-quarterly-and-annual-quotas)
     * [Generate $50,000 in revenue from upsells this quarter](#generate-50-000-in-revenue-from-upsells-this-quarter)
     * [Self prospect through customer referrals](#self-prospect-through-customer-referrals)
@@ -620,7 +620,7 @@ Focus on keeping our growth momentum going.
 - [ ] Close 250 new customers
 
 
-### Head of Sales Goal Examples
+### Head of Sales
 
 
 #### Optimize our sales process
@@ -723,7 +723,7 @@ Keep the team’s overall active pipeline strong.
 - [ ] Close $250k in new bookings
 
 
-### Account Manager Goal Examples
+### Account Manager
 
 
 #### Meet and exceed monthly, quarterly, and annual quotas
@@ -849,7 +849,6 @@ Achieve these numbers to go above and beyond the SDR team’s quotas.
 - [ ] BANT qualified over 100 leads
 
 
-###########################- [ ] 
 
 ## Marketing
 
