@@ -30,20 +30,20 @@ Scoreboard examples:
 
 Capability examples:
 
-* Run {process} during {timeframe}. Track by {metric}.
+* Run {process} for {purpose} during {timeframe}. Track by {metric}.
 
-* Add {feature} by {date}. Track by {metric}.
+* Launch {feature} for {benefit} on {date}. Track by {metric}.
 
-* Complete {task} by {deadline}. Track by {metric}.
+* Complete {task} for {initative} by {deadline}. Track by {metric}.
 
 
 Singular examples:
 
-* Evaluate {choices} during {timeframe} and choose the result. Confirm by {metric}.
+* Evaluate {choices} for {purpose} during {timeframe} and choose the result. Confirm by {metric}.
 
-* Present {topic} to {stakeholders} on {date} with the goal of {purpose}. Confirm by {metric}.
+* Present {topic} to {stakeholders} on {date} with the goal of {outcome}. Confirm by {metric}.
 
-* Get {item} by {deadline} for {purpose}. Confirm by {metric}.
+* Get {item} for {reason} by {deadline}. Confirm by {metric}.
 
 
 People examples:
@@ -55,13 +55,14 @@ People examples:
 * Manage {n} employees to accomplish {task} by {deadline}. Quantify by {metric}.
 
 
-Queueing examples:
+Process examples:
 
 * Achieve lead time of {duration} during {timeframe}. Time by {metric}.
 
-* Accelerate service rate from {x} to {y} by {date}. Time by {metric}.
+* Firedrill time to restore {n} times on {date}. Time by {metric}.
 
-* Drill successful time to restore {n} times by {deadline}. Time by {metric}.
+* Accelerate service rate from {x} to {y} by {deadline}. Time by {metric}.
+
 
 
 ## OKR example for customer satisfaction
