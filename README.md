@@ -274,9 +274,28 @@ OKRs aim to solve the problem of "how do we quickly communicate about teams' mos
 Some web services are offering ways to blend OKRs with typical task lists and work boards, including ways to summarize goals, and track proress, and roll up task items and work items into the relevant OKRs. Teams can use these services to get the best of both worlds.
 
 
+### Can you do OKRs for capabilities that are all-or-nothing?
+
+Yes. OKRs that are all-or-nothing are fine in practice, when you have ways to measure progress. For example the objective "Land a team on the moon" is all-or-nothing, and has progress indicators such as "Orbit a team around the moon", "Orbit a team around the earth", "Prove mission control performance during a crewed mission", and so forth. Each of those all-or-none items can have sub-OKRs, sub-KPIs, sub-metrics, etc. as you wish.
+
+
+### Should measurements and times be explicit or implicit?
+
+Explicit. An explicit measurement and explicit timebox work better than an implicit measurement and implicit timebox, because different teams might be using different measurements/metrics and different cadences/timelines/deadlines. For example, an engineering team may want to use uptime metrics and a quarterly cadence, whereas a sales team may want to use cashflow metrics with a yearly timeline, whereas a product launch team may want to use user engagement metrics with a launch-date deadline.
+
+
+### Are OKRs transparent?
+
+Yes. All OKRs default to be transparent, meaning they are visible to everyone in the organization. In practice, there might be very rare OKRs that are transparency exceptions, such as OKRs for maximum-security projects or maximum-secrecy research. Transparency and visibility build mutual understanding, and also can be significant for helping for inter-team goals, team-of-teams projects, cross-functional areas, and roll-ups.
+
+
 ## Comments
 
-Comments from: Hacker News [1](https://news.ycombinator.com/item?id=19549453) [2](https://news.ycombinator.com/item?id=29231936) and related blog posts.
+Comments from: Hacker News 
+[1](https://news.ycombinator.com/item?id=19549453) 
+[2](https://news.ycombinator.com/item?id=29130039) 
+[3](https://news.ycombinator.com/item?id=29231936) 
+and related blog posts.
 
 
 ### Strategy vs. objectives
@@ -342,6 +361,14 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 
 "OKRs probably only make sense in terms of a complex system, so required reading should probably be Donella Meadows’ Thinking in Systems. In particular, you need to understand that for something to change often everything must change. People try to do these very tiny scoped OKRs and that's kind of risky. To get a complex system to change, often you just need to hold the output at some desired level, and allow the internals to reconfigure to provide that output. Nobody talks about OKR-induced organizational chaos, but ideally you should have one or two OKRs a year that really rearrange the entire system because they happened to be located at a bottleneck and they had to twist the system around until something else became the bottleneck."
 
+"OKRs inspire a conversation about how the company should really be spending its time and resources. What are the ultimate goals of what the business is doing? What is the real opportunity? How do we define success and how can we push success further? What's the dream by investing in these various initiatives? Once you are leading an organization, it behooves you to take this type of planning seriously and spend some time trying to answer these questions at some cadence (once or twice a year at least) to solidify the high level goals - even if there is constantly the risk of these OKRs getting trampled by the realities of the business."
+
+"One of the main benefits of OKRs imo is helping each person understand where they fit into the big objective. Many people comment about their desire for ownership of their work. OKRs can play a role in describing a persons ownership."
+
+"Getting clarity about goals across a big organization where every single person has a different conception of the problems it faces is Very Hard. I don't know if OKRs are the right answer, but the right answer will definitely reflect the Very Hard nature of the problem it's trying to solve. Probably the most any methodology can do here is trick you into asking the right questions."
+
+"I have found that KPIs are a useful addition to an OKR framework. Objectives are usually big and ambitious, but need to be pinned down using Key Results. Key Results are the definition of success for an Objective. However, it’s often the case that there are many ‘numbers’ that affect the Key Results. In advance it is very difficult to know which combination of such metrics is the right one to target. In many cases these metrics can’t be hard coded into a KR, as the sweet spot for the business is unknown - and ultimately we don’t care which combination brings us to hit our KR. So KPIs allow us to play with the next layer down from KRs, setting and revising targets for the constituent numbers that ultimately drive a KR."
+
 
 ### Cons
 
@@ -387,9 +414,13 @@ So I (and everyone around me) don't take them seriously. We take the actual dead
 
 "OKRs need to be understood as a management back-off to be effective, but this culture shift is relatively uncommon. If you look up the literature on setting good OKRs, you will find blog articles about SMART goalsetting or whatever, but very little about “OKRs are about treating your employees as research scientists. You are going to give them a goal to do research on, that is the objective, and you're going to open up the pocketbook and just say, how much grant money do you need to solve this objective. So that's why it's important that the objective makes the business money, you need to know how open the pocketbook is. Meanwhile, the KRs are important because research projects have a sort of inertia, by themselves they do not respect the Pareto principle to do the 20% work that drives 80% of the result. So you have to tell your researchers when it's okay to stop, they won't know that unless you tell them and they will keep tweaking to get that last 2% efficiency out of the system.”"
 
-Non-SMART key results anywhere in the chain allow opportunistic employees and/or managers to spin tales about how they're doing great regardless of actual results.
+"Non-SMART key results anywhere in the chain allow opportunistic employees and/or managers to spin tales about how they're doing great regardless of actual results."
 
-If the executive team does not publish company-wide objectives in time for downstream teams to build their own objectives upon them, then the downstream teams just do what they've been wanting to do anyway, and then spin a yarn about how it fits into the company-wide objectives when (and if) they arrive.
+"If the executive team does not publish company-wide objectives in time for downstream teams to build their own objectives upon them, then the downstream teams just do what they've been wanting to do anyway, and then spin a yarn about how it fits into the company-wide objectives when (and if) they arrive."
+
+"A lot of organizational time is spent coming up with OKRs only for them to be either overridden due to the reality of running a business (gotta do what clients need, gotta do what you can to compete with competitors) or just by VPs/Directors deciding that something else requires the teams focus. Ultimately it seems like a whole bunch of busy work. “But you’re not doing OKRs correctly!” Sure, I agree to that. But what use is a system or process that’s so difficult to get right that most organizations fail? I would argue that it is useless."
+
+"Emphasis on these metrics and their associated processes is an important part of a process driven organization, where you want everything to be consistent, and are willing to sacrifice efficiency (and job satisfaction), while carrying a heavy admin layer. This is probably true for most big companies."
 
 
 ## For more information
