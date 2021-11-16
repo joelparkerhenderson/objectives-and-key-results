@@ -27,6 +27,7 @@ Contents:
   * [How does OKR compare to email or chat?](#how-does-okr-compare-to-email-or-chat)
   * [How does OKR compare to task lists or work boards?](#how-does-okr-compare-to-task-lists-or-work-boards)
 * [Comments](#comments)
+  * [Strategy vs. objectives](#strategy-vs-objectives)
   * [Pros](#pros)
   * [Cons](#cons)
 * [For more information](#for-more-information)
@@ -275,7 +276,18 @@ Some web services are offering ways to blend OKRs with typical task lists and wo
 
 ## Comments
 
-Comments from [Hacker News](https://news.ycombinator.com/item?id=19549453) and related blog posts.
+Comments from: Hacker News [1](https://news.ycombinator.com/item?id=19549453) [2](https://news.ycombinator.com/item?id=29231936) and related blog posts.
+
+
+### Strategy vs. objectives
+
+"Distinguish the concept of an objective from strategy. An objective is something that is desired to be achieved, something that indicates the business is running well. It is merely a target and does not specify how that target can be achieved. Strategy is what gives direction as to how a target can be reached and sort of a framework under which they can operate. Businesses sometimes define an objective without having a strategy; in such a situation there will be a hundred different ways how the objective can be achieved but no direction on which way to pick."
+
+"For strategy with objectives, the best quick start I've seen is a strategic balanced scorecard, and it leads directly to OKRs and KPIs. Describe what your organization/project will look like, at an agreed future date, such as one year from now: 1. What are the financial highlights such as sales and investments? 2. What are the external highlights such as customers and vendors? 3. What are the internal highlights such as processes and employees? 4. What are the learning and growth areas such as research and upskilling?"
+
+"Goals masquerading as strategy is an incredibly common problem. The book "Good Strategy Bad Strategy" is my favorite treatment of the problem. Unfortunately a lot of executives don’t like to be told they are suppose to take responsibility for strategy. Here is an article length version from the author: https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/the-perils-of-bad-strategy"
+
+"I use OKRs extensively up, down and across my business and at no point have I felt they masquerade for strategy. You set a destination for the business through the creation of a vision and then create OKRs and KPIs to measure progress towards it and perhaps more importantly provide transparency."
 
 
 ### Pros
@@ -322,11 +334,13 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 
 "I worked at a startup that started OKRs and I found experience super enjoyable, to the point where working in a more relaxed environment (for lack of a better description) is kinda hard these days. The two things people and teams struggled the most with though, IMHO: 1) Coming up with a good OKR that met longer term, higher level company priorities that intersected your work. 2) Coming up with a good ORK in terms of measurable key results. It can be tough and time consuming to get the measurements in place necessary to gauge the results, or even make a case for the OKR in the first place (incidentally this is the dirty secret of SRE IMHO). We would pro-actively get data collection in place on occasion for reasons that included helping to launch and score future OKRs."
 
- "As a manager, you have to talk about performance. If you’re not, you’re failing your company and you’re failing your team. If OKRs help you do this, go for it. If not, find another tool. What’s important is that you talk about performance, early and often."
+"As a manager, you have to talk about performance. If you’re not, you’re failing your company and you’re failing your team. If OKRs help you do this, go for it. If not, find another tool. What’s important is that you talk about performance, early and often."
 
 "Figuring out why you do what you do and how you measure the success of that in a way that leads you to the right result IS hard but extremely valuable work. It forces you to deeply understand the problem you're solving and the challenges you face."
 
 "There is a peace that comes with knowing what you are working on is aligned with the company, and that management has good visibility into how you are doing. And if you take your job seriously, it is really not that hard to keep up with."
+
+"OKRs probably only make sense in terms of a complex system, so required reading should probably be Donella Meadows’ Thinking in Systems. In particular, you need to understand that for something to change often everything must change. People try to do these very tiny scoped OKRs and that's kind of risky. To get a complex system to change, often you just need to hold the output at some desired level, and allow the internals to reconfigure to provide that output. Nobody talks about OKR-induced organizational chaos, but ideally you should have one or two OKRs a year that really rearrange the entire system because they happened to be located at a bottleneck and they had to twist the system around until something else became the bottleneck."
 
 
 ### Cons
@@ -366,6 +380,16 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 So I (and everyone around me) don't take them seriously. We take the actual deadlines seriously. The only thing OKRs seem to do is provide direction to the higher ups about what my team is up to."
 
 "Refactoring is a really tough sell for an OKR. We use OKRs and we have had a couple quality initiatives in the past that were tied directly to OKRs and even then it’s hard to get that work prioritized. At the end of the day as long as users aren’t complaining product is going to index on features and value added. I’ve never been somewhere that would let you make a goal around redoing something that already works (even if it works like shit). I think the reason for that is it’s hard to come up with a key result that can be measured once the work is done — other than “it still works the same”."
+
+"OKRs further entrench hierarchies in a way that is harmful to productivity and harmony. They allow for a whole middle layer of management that simply decomposes their KRs and passes them down. The people below them are ultimately the ones on the hook for delivering, and if the middle manager doesn't achieve their own KRs, they already have an agreement about which person that reports to them is to blame. In my organisation OKRs are being used as a sort of feudal system whereby the peasants work the land, but the credit is passed up the chain to the seigneur."
+
+"OKRs are very dangerous when they are scoped beneath the team level to the personal level. Personal OKRs tend to create perverse incentives: “I am an amazing employee because I didn't care about my struggling colleagues and ignored them and delivered 10 times as much work as them!”"
+
+"OKRs need to be understood as a management back-off to be effective, but this culture shift is relatively uncommon. If you look up the literature on setting good OKRs, you will find blog articles about SMART goalsetting or whatever, but very little about “OKRs are about treating your employees as research scientists. You are going to give them a goal to do research on, that is the objective, and you're going to open up the pocketbook and just say, how much grant money do you need to solve this objective. So that's why it's important that the objective makes the business money, you need to know how open the pocketbook is. Meanwhile, the KRs are important because research projects have a sort of inertia, by themselves they do not respect the Pareto principle to do the 20% work that drives 80% of the result. So you have to tell your researchers when it's okay to stop, they won't know that unless you tell them and they will keep tweaking to get that last 2% efficiency out of the system.”"
+
+Non-SMART key results anywhere in the chain allow opportunistic employees and/or managers to spin tales about how they're doing great regardless of actual results.
+
+If the executive team does not publish company-wide objectives in time for downstream teams to build their own objectives upon them, then the downstream teams just do what they've been wanting to do anyway, and then spin a yarn about how it fits into the company-wide objectives when (and if) they arrive.
 
 
 ## For more information
