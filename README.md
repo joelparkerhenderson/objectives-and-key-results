@@ -39,9 +39,10 @@ Contents:
   - [For more information](#for-more-information)
 
 Examples:
-* [OKR examples by SixArm](examples/okrs-by-sixarm/index.md)
 * [OKR examples by Attim](examples/okrs-by-atiim/index.md)
+* [OKR examples by Clickup](examples/okrs-by-clickup/index.md)
 * [OKR examples by Google](examples/okrs-by-google/index.md)
+* [OKR examples by SixArm](examples/okrs-by-sixarm/index.md)
 
 
 ## What is OKR?
