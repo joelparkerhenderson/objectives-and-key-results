@@ -12,39 +12,39 @@
 <img src="README.png" alt="Objective" style="width: 100%;"/>
 
 Contents:
-- [Objectives and Key Results (OKR)](#objectives-and-key-results-okr)
-  - [What is OKR?](#what-is-okr)
-  - [What is an objective?](#what-is-an-objective)
-    - [Example objectives](#example-objectives)
-  - [What is a key result?](#what-is-a-key-result)
-    - [Example key results](#example-key-results)
-  - [OKR systems](#okr-systems)
-  - [OKR quotations](#okr-quotations)
-    - [OKR quotations by Andy Grove](#okr-quotations-by-andy-grove)
-    - [OKR quotations by John Doerr](#okr-quotations-by-john-doerr)
-  - [FAQ](#faq)
-    - [Are OKRs heavyweight or lightweight?](#are-okrs-heavyweight-or-lightweight)
-    - [How long should I spend writing OKRs?](#how-long-should-i-spend-writing-okrs)
-    - [How does OKR compare to other communication approaches?](#how-does-okr-compare-to-other-communication-approaches)
-    - [How does OKR compare to email or chat?](#how-does-okr-compare-to-email-or-chat)
-    - [How does OKR compare to task lists or work boards?](#how-does-okr-compare-to-task-lists-or-work-boards)
-    - [Can you do OKRs for capabilities that are all-or-nothing?](#can-you-do-okrs-for-capabilities-that-are-all-or-nothing)
-    - [Should measurements and times be explicit or implicit?](#should-measurements-and-times-be-explicit-or-implicit)
-    - [Are OKRs transparent?](#are-okrs-transparent)
-  - [Comments](#comments)
-    - [Strategy vs. objectives](#strategy-vs-objectives)
-    - [Pros](#pros)
-    - [Mixed](#mixed)
-    - [Cons](#cons)
-  - [For more information](#for-more-information)
+- [What is OKR?](#what-is-okr)
+- [What is an objective?](#what-is-an-objective)
+  - [Example objectives](#example-objectives)
+- [What is a key result?](#what-is-a-key-result)
+  - [Example key results](#example-key-results)
+- [OKR systems](#okr-systems)
+- [OKR quotations](#okr-quotations)
+  - [OKR quotations by Andy Grove](#okr-quotations-by-andy-grove)
+  - [OKR quotations by John Doerr](#okr-quotations-by-john-doerr)
+- [FAQ](#faq)
+  - [Are OKRs heavyweight or lightweight?](#are-okrs-heavyweight-or-lightweight)
+  - [How long should I spend writing OKRs?](#how-long-should-i-spend-writing-okrs)
+  - [How does OKR compare to other communication approaches?](#how-does-okr-compare-to-other-communication-approaches)
+  - [How does OKR compare to email or chat?](#how-does-okr-compare-to-email-or-chat)
+  - [How does OKR compare to task lists or work boards?](#how-does-okr-compare-to-task-lists-or-work-boards)
+  - [Can you do OKRs for capabilities that are all-or-nothing?](#can-you-do-okrs-for-capabilities-that-are-all-or-nothing)
+  - [Should measurements and times be explicit or implicit?](#should-measurements-and-times-be-explicit-or-implicit)
+  - [Are OKRs transparent?](#are-okrs-transparent)
+- [Comments](#comments)
+  - [Strategy vs. objectives](#strategy-vs-objectives)
+  - [Pros](#pros)
+  - [Mixed](#mixed)
+  - [Cons](#cons)
+  - [Alternatives](#alternatives)
+- [For more information](#for-more-information)
 
 Examples:
+* [OKR examples by SixArm](examples/okrs-by-sixarm/index.md)
+* [OKR examples by Google](examples/okrs-by-google/index.md)
 * [OKR examples by Attim](examples/okrs-by-atiim/index.md)
 * [OKR examples by Clickup](examples/okrs-by-clickup/index.md)
-* [OKR examples by Google](examples/okrs-by-google/index.md)
-* [OKR examples by SixArm](examples/okrs-by-sixarm/index.md)
-
-
+* [Pre-work for setting OKRs by Eleganthack](examples/pre-work-for-setting-okrs-by-eleganthack/)
+  
 ## What is OKR?
 
 OKR stands for Objectives and Key Results.
@@ -303,6 +303,7 @@ Comments from: Hacker News
 [2](https://news.ycombinator.com/item?id=29130039) 
 [3](https://news.ycombinator.com/item?id=29231936)
 [4](https://news.ycombinator.com/item?id=31422718)
+[5](https://news.ycombinator.com/item?id=40552291)
 and related blog posts.
 
 
@@ -379,14 +380,35 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 
 "I have found that KPIs are a useful addition to an OKR framework. Objectives are usually big and ambitious, but need to be pinned down using Key Results. Key Results are the definition of success for an Objective. However, it’s often the case that there are many ‘numbers’ that affect the Key Results. In advance it is very difficult to know which combination of such metrics is the right one to target. In many cases these metrics can’t be hard coded into a KR, as the sweet spot for the business is unknown - and ultimately we don’t care which combination brings us to hit our KR. So KPIs allow us to play with the next layer down from KRs, setting and revising targets for the constituent numbers that ultimately drive a KR."
 
+"Improving SLA metrics are excellent OKRs since they are easily measurable and are grease to the orgs cogs."
+
+"The alternative to OKR is that your manager writes down your goals in a hidden place where you can't see them, the only thing that changes is that now you are less informed. Personally I thought it was good that I could see what goals my manager had, what goals his manager had, what goals that managers manager had etc. I don't see why people are so angry at that level of transparency."
+
+"Now in a manager chair I have both experiences, setting bad OKRs and good OKRs. The performance and communication improvements when you get it right are astonishing. When you find a place where people get it right, you'll love it."
+
+"OKR in general makes it much easier for managers to do their job, and you really want your managers to do their job properly."
+
+"OKRs are done right in tons of places, just that when they are done right people don't notice them much because they aren't meant to be a thing you notice much. Its first and foremost a thing managers should be engaged with since it helps them organize with each other, individual employees should barely be aware OKRs are even a thing at the company."
+
 
 ### Mixed
+
 
 "Fundamentally, OKRs are a tool that should allow teams to make decisions about what to focus on, with the knowledge that they're aligned with the business objectives. If a team already has an immutable quarter+ roadmap, they're not making any decisions, they're just working; OKRs aren't a good fit for this kind of team. OKRs done well _should_ result in teams feeling empowered, because they can see the link between their actions/decisions and overall success. OKRs done poorly have the exact opposite effective; not just benign, but harmful." 
 
 "One of the common failure modes of OKRs is that the top-down view of the management doesn't connect well to the reality of day-to-day operations. Of course, having teams produce bottom-up OKRs has failure modes too -- it's not really strategic planning if the leaves of the org tree are setting the goals. So you need both top-down and bottom-up. A cycle of planning seems to work best -- a high-level goal is transmitted down, then each team engages in a local goal-setting process, then these goals go up, then there is coordination and refinement. But this takes significant time and requires incredible discipline, so it's hard to do well."
 
 "Healthy OKRs do exist but they have preconditions. 1. The individuals devising them must fully internalize which are the objectives that do matter for the org, among an ocean of "priorities". 2. The KRs must be carefully thought out and evaluated against their vulnerability to the law of unintended consequences. 3. The team(s) implementing the KRs must understand why theses KRs exist, their relationship to the Objective they serve, and how well (or not) they measure the objective. 4. The leaders must be quick to change the KRs if there's any doubt as to whether they are actually helping, or causing more damage; the "why" should remain relatively constant over time, the "how" can change. 5. KRs that have thresholds should always be ambitious and very hard to actually meet, as they stretch the organization's goals. 6. Tying perforance bonuses to them is dangerous because it immediately results in gamification."
+
+"OKRs as the summary of a strategy conversation (not a “visioning” session) that actually happened, in the words of those who will do the work, fine. In most other scenarios I would proceed with extreme caution."
+
+"At higher level OKRs looks like "attract X more customers" or "reduce customer churn by Y%" etc. To achieve those they instruct teams to create customer value. At the individual level, such goals aren't as easy to write since they are the result of contributions from many parts. If you can come up with good measurable goals for you as an individual since you have enough individual freedom to do so, then yes writing that down is good. But if you don't have any long term project and don't have control to plan what you work on, then writing down an OKR is just hazing."
+
+"In most places OKR, SMART, etc, just pops up around performance-review time. During other times the actual goals and priorities drift and rearrange like deck chairs on the titanic. As long as one can finagle the rhetoric to make it seem like there was a coherent narrative where one has done the things they wrote down they were going to do last year-- nobody cares."
+
+"My charitable view is, they can serve as an error correction function in a product led org. I.e., product and sales people don't care about the internals, just feature, feature feature. Over time this increases entropy. OKRs can be used to make time to address entropy."
+
+"OKR shows you the state of the current organization. If the OKR are dysfunctional the organization is dysfunctional, it would be even if you didn't see the OKRs. The fix isn't to remove the OKRs, it is to align OKR with what each team is really expected to do."
 
 
 ### Cons
@@ -449,6 +471,20 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 "Emphasis on these metrics and their associated processes is an important part of a process driven organization, where you want everything to be consistent, and are willing to sacrifice efficiency (and job satisfaction), while carrying a heavy admin layer. This is probably true for most big companies."
 
 "OKRs are rocket fuel for the psychopaths and narcissists in your organization because they are geniuses at playing that kind of game and they will use it to make themselves look good while making hard working people who are more interested in doing work and realizing the strategy look bad."
+
+"OKRs for us (a mid-size? company, 150ish people) have been a disaster. They pit teams against each other, instead of aligning them with the business, by making them focused on their targets and nothing else. It's been a lot of "this isn't in my OKRs, why should I work on it?", making it both hard to adjust course ("why would I work on this important thing when it's not an OKR?"), and to get the teams to help each other ("why would I work on their target when I have mine?"). Right now we're trying a combination of company-level objectives (not KRs) and Kanban, where the teams just work on the next most important objective they can."
+
+"I'm so tired of meta-work. Work that adds to the workload of already overloaded and stressed employees of a company. It feels like nonsense that everyone goes along with simply because they are all too terrified to say no, this doesn't help me get my job done."
+
+"OKR’s are nothing but a rehashing of Peter Drucker’s Management By Objectives (MBO) - invented in 1954 and already ignored by MBA programs by the 1970s. Management By Objective is useless until one is talking about the business unit level where folks have direct impact on profit and loss. If its not already immediately obvious what numbers are relevant to your job, there’s rarely anything to be gained by groping for them in the dark corners of a middle manager’s quarterly performance ritual."
+
+
+### Alternatives
+
+
+"Do you have any alternatives to OKRs? Genuine question. We‘re using OKRs and I dread it, but it’s better than nothing. Hoping for everybody to magically on their own align with company goals doesn’t work either."
+
+"How do you propose companies approach goals setting? Surely there has to be some way for a company to communicate to employees “Our goal is to grow 30%” and we will do this focusing marketing on a rebranding, focusing sales team on shifting to outbound sales model, product will build features x, y, z, etc. Very simplistic example but companies need some way to flow goals down to smaller groups of people down the chain, don’t they?"
 
 
 ## For more information
