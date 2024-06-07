@@ -17,6 +17,7 @@ Contents:
   - [Example objectives](#example-objectives)
 - [What is a key result?](#what-is-a-key-result)
   - [Example key results](#example-key-results)
+- [OKR purpose](#okr-purpose)
 - [OKR systems](#okr-systems)
 - [OKR quotations](#okr-quotations)
   - [OKR quotations by Andy Grove](#okr-quotations-by-andy-grove)
@@ -43,8 +44,11 @@ Examples:
 * [OKR examples by Google](examples/okrs-by-google/index.md)
 * [OKR examples by Attim](examples/okrs-by-atiim/index.md)
 * [OKR examples by Clickup](examples/okrs-by-clickup/index.md)
-* [Pre-work for setting OKRs by Eleganthack](examples/pre-work-for-setting-okrs-by-eleganthack/)
-  
+
+Articles:
+* [Pre-work for setting OKRs by Eleganthack](articles/pre-work-for-setting-okrs-by-eleganthack/)
+* [OKRs are not equal to strategy by Ant Murphy](articles/okrs-are-not-equal-to-strategy-by-ant-murphy/)
+
 ## What is OKR?
 
 OKR stands for Objectives and Key Results.
@@ -77,7 +81,7 @@ Ground rules:
 
   * OKR items are visible to the whole organization, by default.
 
-  * OKR visbility helps teams work together, and helps everyone know what others are doing.
+  * OKR visibility helps teams work together, and helps everyone know what others are doing.
 
 
 ## What is an objective?
@@ -146,7 +150,7 @@ Metrics can be based on:
 
 For example, “Launch an Awesome MVP” might have KR’s of:
 
-  * Net Promotor Score (NPS) of 8/10
+  * Net Promoter Score (NPS) of 8/10
   * 20% of users come back 2X in one week
   * 10% conversion
 
@@ -162,6 +166,17 @@ For example, some good key results:
   * Double our userbase.
 
 See many more examples [here](examples/okrs_by_sixarm.md)
+
+
+## OKR purpose
+
+Each OKR is better when it connects to the organization's vision, mission, and strategy. Use these tips to help.
+
+* What is your vision, mission, strategy?
+
+* How does this OKR connect to the mission, strategy?
+
+* Why are you choosing this specific OKR over any other?
 
 
 ## OKR systems
