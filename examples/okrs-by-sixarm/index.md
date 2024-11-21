@@ -67,7 +67,6 @@ Process examples:
 
 ## OKR example for customer satisfaction
 
-
 Objective: Increase customer satisfaction by +10% during this quarter; measure by Net Promoter Score.
 
 Key results:
@@ -77,3 +76,24 @@ Key results:
 * Interview 3 customers who recently joined, 3 customers who are longstanding, and 3 customers who recently churned. Get NPS scores. Report results as above.
 
 * Create an action plan of potential improvements, and present the plan to stakeholders. Choose improvements to do, do them, and track progress with the organization's project management tools. Report results as above.
+
+
+## OKR example for customer discovery
+
+Objective: Validate product-market fit for our B2B SaaS solution; validate by checklist of key results.
+
+Key results:
+
+* Analyze Prospect Interviews: 70% of interviews confirm significant problem.
+
+* Measure Solution Interest: 60% of prospects express strong interest in solution.
+
+* Validate Differentiation: 50% of prospects prefer our solution over alternatives.
+
+* Assess Pricing Acceptance: 40% of prospects indicate willingness to pay target price.
+
+* Secure Interest: 3+ prospects commit to beta testing.
+
+* Secure Intents: 3+ prospects commit to buying, by providing card or PO or LOI for credibility.
+
+Note: For B2B, consider 10 prospects. For B2C, 10x the number of participants, and -20% all the rates.
