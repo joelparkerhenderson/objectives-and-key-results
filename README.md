@@ -519,6 +519,8 @@ Posts:
 
 * [Goals aren’t enough; you have to talk about performance, too - By Jacob Kaplan-Moss](https://jacobian.org/2019/apr/1/talk-about-performance/)
 
+* [Hitting OKRs vs Doing Your Job](https://jessitron.com/2025/01/05/hitting-okrs-vs-doing-your-job/)
+
 Credit:
 
 * [Cove OKR examples](https://www.talentcove.com/okrs/okr-examples.html)
