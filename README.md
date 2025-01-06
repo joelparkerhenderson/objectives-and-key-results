@@ -344,8 +344,9 @@ and related blog posts.
 
 "OKR work is/should be all work. Each task should be aimed toward moving forward on the goal.... Let's consider a KR of 'increase active users by X%'. Interviewing/hiring isn't going to move the needle on getting X% more active users by itself. Having more engineering time available for new (critical) feature work might, and you have to do interviewing to get new hires. Training in and of itself isn't going to move the needle either. But having a more knowledgable engineering team probably will, by being able to move faster or better. You have to do training to improve knowledge. Maintenance work might not move the needle on active users FORWARD (or it might, if you have a lot of bugs that prevent users from actually using your stuff) but it might prevent it from going BACKWARD."
 
-"I implemented OKRs among my small team of 10 devs who are all pretty awesome rockstars and good contributors, but still early in their careers.
-It turns out that OKRs made the employees happier, because it served as a “more abstract” form of feedback. Before, they were receiving feedback, but it was too specific and narrow. Things like “this class can be refactored to X pattern” or “You missed a few unit tests covering X Y Z cases.” But when we started tracking things like time to ship a new feature, bugs per implemented feature, hard deadlines for certain product releases, etc. it really helped to give some better feedback."
+OKRs, KPIs, etc are often challenging for orgs, teams, and individuals that are poorly trained. If people are poorly trained, they will find it challenging, even counter-productive, to use them. The end result is nobody uses it right, and the company suffers. And it's complex enough that a pithy blog post isn't going to teach you how to do it right. Managers, execs: train your staff. You're only hurting yourself and the company by not doing so.
+
+"I implemented OKRs among my small team of 10 devs who are all pretty awesome rockstars and good contributors, but still early in their careers. It turns out that OKRs made the employees happier, because it served as a “more abstract” form of feedback. Before, they were receiving feedback, but it was too specific and narrow. Things like “this class can be refactored to X pattern” or “You missed a few unit tests covering X Y Z cases.” But when we started tracking things like time to ship a new feature, bugs per implemented feature, hard deadlines for certain product releases, etc. it really helped to give some better feedback."
 
 "OKR work is a subset of engineering time. We deal with things like interviews, meetings, tech talks, training, migrations, and maintenance work outside the framework. You should always be making progress on OKRs, but it’s not the only thing you do. Engineering has its own overhead, not every hour is billable."
 
@@ -363,7 +364,7 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 
 "I came in thinking I had one laser-focused mission. But I had seen an org use OKRs and was interested in deploying the system. So I found a format I liked (Excel, objectives in bold, key results under each, quarters pushing out in columns to the right), explained the plan to people, invited them to come get me up to speed on things. Turned out there were over 70 discrete projects ongoing trying to implement or change things. Some from above, some initiated from below, some inherited from my predecessor who hadn't bothered to mention them to me. I had started 1:1s every week with each of 5-6 folks and got their input. Each person ended up with their own sheet. It took a while to sort out that some people had different names for the same things. There was clearly some gradient descent on my part. 70 projects is the lowest local minimum I could find. It took several epochs to find."
 
-"John Doerr wrote the great book about OKRs to explain how important they were in setting the strategy for Intel when it went out of the memory business and focused just on processors: achieving that in 1 quarter is only possible with very clear communication. If it's not rare enough (quaterly or yearly) or not short enough (few items), it doesn't work, it's just a wish list. I have seen them working and not working (when the whole team knew that doing all the strech goals were impossible)."
+"John Doerr wrote the great book about OKRs to explain how important they were in setting the strategy for Intel when it went out of the memory business and focused just on processors: achieving that in 1 quarter is only possible with very clear communication. If it's not rare enough (quarterly or yearly) or not short enough (few items), it doesn't work, it's just a wish list. I have seen them working and not working (when the whole team knew that doing all the stretch goals were impossible)."
 
 "We just got done with trying OKRs for a quarter at my company. It was overall a really positive experience. We had a small team of people working to push out a new product. At the beginning of the quarter, we defined what success looked like for that new product and came up with the key indicators for it. As a developer, it was really fulfilling to take time to really think through what it would take to build out a truly quality product. I spent a lot more time thinking through the things I normally wouldn't put much effort into. We built tools to help our support team understand the new product. We put together documentation. We took time to think about how to train the company on the new product. We wrote automated tests to make sure that we could sell the new product as a stable solution. Everything was focused on our overall objective to deliver a quality product. Our team had people from development, marketing, sales, product, and quality assurance. It was great to see a cross-department team unified to get something amazing done. Just adding a data point that there are ways to make it work well."
 
@@ -405,6 +406,22 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 
 "OKRs are done right in tons of places, just that when they are done right people don't notice them much because they aren't meant to be a thing you notice much. Its first and foremost a thing managers should be engaged with since it helps them organize with each other, individual employees should barely be aware OKRs are even a thing at the company."
 
+"The times I've seen OKRs and metrics used effectively, they met two criteria. (1) it was always a metric closely aligned with what customers want and which drives revenue for the company; and (2) it didn't just impose a requirement to do work, it also provided political cover for not doing other, competing work."
+
+"Ideally management is working with IC teams to set good Key Results. Management shares context of what's important (objectives) and IC teams propose good quantitative measures (key results) of how they'll achieve it."
+
+"Communicating consistently the priorities and tradeoffs the company wants to make as they get larger is a hopeful use of OKRs. In small teams/companies “the right thing” can be obvious and the team can operate in a shared headspace with low cycle time to discuss and decide tradeoffs when they arise. This gets really problematic at scale."
+
+"Objectives are always inevitably a thing. OKRs make the implicit explicit."
+
+"High level OKRs should be set by the company to steer the ship, and engineering OKRs should align with the company OKRs. Thus, the roadmap is defined by the OKRs - that's the whole point."
+
+"The big value add from OKRs is legibility outside your team/org. OKRs are about making your goals and work easily understandable, because the alternatives don’t scale as well. Start with the question of what you want to make visible to the org, and make sure you craft your OKRs to highlight that part of the roadmap."
+
+"OKRs are just another word for priority. You have an infinite amount of “could do” and a limited amount of “must do”, and “must” is very rarely clear a year or more out in any measurable sense. So eventually we come to “support the overriding mission”, and record everything we do, and we can retroactively look to see who contributed most."
+
+"There's never enough time to do everything that's planned or necessary and OKRs should be the tool that lets you resolve the conflicts. Ship feature X or fix the infrastructure? "X is in OKRs, let's work on X". "X is not in OKRs and we have KR to get Y% success on auto-deployments, let's fix infrastructure". What I definitely don't want is "do OKRs and also do roadmap". The only things that should not be in the OKRs are ones where prioritization is trivial (like "fix critical outages")."
+
 
 ### Mixed
 
@@ -424,6 +441,16 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 "My charitable view is, they can serve as an error correction function in a product led org. I.e., product and sales people don't care about the internals, just feature, feature feature. Over time this increases entropy. OKRs can be used to make time to address entropy."
 
 "OKR shows you the state of the current organization. If the OKR are dysfunctional the organization is dysfunctional, it would be even if you didn't see the OKRs. The fix isn't to remove the OKRs, it is to align OKR with what each team is really expected to do."
+
+"Sometimes you may want more than single metrics, and the metrics you leave on the side to priorize the OKRs can be as critical. Put another way, if your client has 20 inherent metrics, you can't have 20 OKRs so you're always at risk to mess it when focusing on a smaller set."
+
+"The reality of OKRs (or Rockefeller Habits or any other company wide framework for establishing priorities and goals,) is that by going through the exercise of trying to create them across the company, you often discover that there are meaningful disconnects in how teams are prioritizing work or how teams function vs how other stakeholders in the company believe those teams are operating. The real value comes from diving deeper into understanding those things. However, companies often view those as annoyances and find a way to plow the goals through while completely missing that learning opportunity."
+
+"As an engineer I have nothing against OKRs. But it's often the day-to-day management (EM or PM) who tend to override the team's OKRs for upper management to prioritize something ad-hoc & out of scope they agreeably said Yes to."
+
+"OKRs seem effective for the workforce in the same way scout badges are effective for children to learn skills - good for those who otherwise would do nothing. The issue is, for intrinsically motivated people who are incredibly specialised in a largely reactive role they are a distraction at best, and when used for quarterly and yearly performance tracking, a detriment to the core role at worst."
+
+"The good part about OKRs is (/should be) that it forces an alignment conversation between teams and amongst managers. And the performance discussion with manager is often useful and sometimes revealing. More often both focus on metrics, losing the last opportunity to extract value from the concept."
 
 
 ### Cons
@@ -493,6 +520,18 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 
 "OKR’s are nothing but a rehashing of Peter Drucker’s Management By Objectives (MBO) - invented in 1954 and already ignored by MBA programs by the 1970s. Management By Objective is useless until one is talking about the business unit level where folks have direct impact on profit and loss. If its not already immediately obvious what numbers are relevant to your job, there’s rarely anything to be gained by groping for them in the dark corners of a middle manager’s quarterly performance ritual."
 
+"Now having worked in a few smaller teams since my time at Facebook, I realize how marvellous it is to not have to worry about OKRs, performance reviews and all that malarkey. It was so draining to run yourself as a mini PR/brand within one's team (/one's department) and market oneself (one's team) to your manager (/your company)."
+
+"The fundamental issue is that in almost all larger companies, upper management does not trust that their employees are either intrinsically motivated to do a good job, or are smart enough to determine what "a good job" is. So rather than having a chain of trust from upper management to middle management to individual contributors, they seek to create a measurable control system. This inevitably replaces people's intrinsic motivation to do a good job with an extrinsic motivation, which only poorly represents the company's actual goals. At this point, most people are no longer trying to do a good job, they're instead trying to make their numbers look good."
+
+"You need good executives, and you need to be able to depend on executives who have good guts. You cannot automate your way into being successful, at the end of it all running a company is still pretty much a social endeavour, one that cannot be partitioned down to individual units, neither can its success or failure be explained by those individual units alone."
+
+"As an individual engineer, you are not paid enough to care about business problems and propose your own solutions and timelines. You are also not given organizational authority, budgets, or agency beyond your line of work. You literally haven't been given the tools to own metrics and OKRs. And moving those metrics and OKRs doesn't get you more money. So why would you care?"
+
+"What I've found is a slew of Product Mangers mostly just sit in between devs & users, without coordinating cross team, actually writing specs/tasks/roadmaps, etc. So each teams' devs wrote their own OKRs, in ignorance of what users (who might be other tech teams) might actually want or what other teams OKRs are. For example, to use an analogy one team builds the foundation and decides their OKR is to use 15% less concrete next year. The other team builds frames and decides their OKR is to make the average building 15% taller next year. If any of them talked to actual final customers, they'd have found out the customers actually desire the buildings to be more robust to storm winds."
+
+"OKRs and KPIs are scams. Human language and psychology are both vague and malleable. The kinds of people who are good at meeting OKRs aren't the kinds of people who can produce quality work. OKRs are mostly about lowering expectations prior to implementing and exaggerating results after implementing... It's mostly psychological work, a magic trick, not real productivity."
+
 
 ### Alternatives
 
@@ -501,6 +540,11 @@ It turns out that OKRs made the employees happier, because it served as a “mor
 
 "How do you propose companies approach goals setting? Surely there has to be some way for a company to communicate to employees “Our goal is to grow 30%” and we will do this focusing marketing on a rebranding, focusing sales team on shifting to outbound sales model, product will build features x, y, z, etc. Very simplistic example but companies need some way to flow goals down to smaller groups of people down the chain, don’t they?"
 
+"The author W. Edwards Deming has a ton to say on this. Lots of very practical advice on how to measure the right things, yet also avoiding relying too much on measurements. It is unfortunately quite complex and not easily digestible as pop management advice. I love the books "Out of the Crisis" and "Some Theory of Sampling"."
+
+"I did not do any OKRs on an infrastructure team. Qualitative results were just as valued, and we had the quantitative knobs to dial when needed thanks to excellent internal tooling and service maturity. I found it ironic that we didn’t do OKRs despite using data to drive decisions."
+
+"We use SAFe at my current job; we set quarterly goals and objectives, usually don't meet them because Reasons, but if there is an incident or change that warrants changing those goals it's a Big Thing and we basically redo the planning sessions (two days or so); it's a big disruption and it's costly so it's not done lightly. We've only done that once in the past two and a half years or so."
 
 ## For more information
 
